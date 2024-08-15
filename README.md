@@ -35,3 +35,7 @@ The "**Air Quality Index Report**" aims to deliver a comprehensive and interacti
 **Extended Geographical Coverage:** Expanding the dashboard to include air quality data from more countries and regions for a global perspective.
 
 **Advanced Predictive Analytics:** Incorporating machine learning models to predict future pollution trends and the impact of potential policy changes.
+
+**Dashboard Overview:**
+![Screenshot 2024-08-15 170355](https://github.com/user-attachments/assets/552427e4-90f0-4900-9617-00a17fca779d)
+
