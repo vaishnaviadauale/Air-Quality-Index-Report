@@ -20,7 +20,7 @@ The "**Air Quality Index Report**" aims to deliver a comprehensive and interacti
 
 📖**Dynamic Filtering:** Users can explore the data through dynamic filters, such as pollutant type, year, and region, allowing for a personalized and in-depth analysis.
 
-📖 **## Results and Impact**
+📖 **Results and Impact**
 
 Enhanced Decision-Making: The dashboard provides critical insights that can help environmental analysts and policymakers make data-driven decisions to improve air quality.
 
@@ -28,7 +28,7 @@ Informed Public Awareness: By visualizing the data in an accessible format, the 
 
 Optimization of Pollution Control Strategies: The detailed analysis of pollution levels and trends helps in fine-tuning existing strategies and developing new approaches to minimize pollution effectively.
 
-📖 **## Future Enhancements**
+📖 **Future Enhancements**
 
 **Real-Time Data Integration:** Plans to incorporate live data feeds to provide up-to-the-minute analysis of air quality, making the dashboard even more valuable for real-time decision-making.
 
