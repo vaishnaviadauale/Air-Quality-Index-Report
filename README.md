@@ -1,8 +1,8 @@
-📖## Project Objective
+📖 **Project Objective**
 
 The "**Air Quality Index Report**" aims to deliver a comprehensive and interactive dashboard that offers deep insights into air quality across various regions. This project is designed to empower environmental analysts, policymakers, and public health officials by providing detailed data on pollution levels, trends, and regional differences. The goal is to facilitate informed decision-making for effective pollution control and to enhance public awareness of air quality issues.
 
-📖## Tools Used
+📖**Tools Used**
 
 **Microsoft Power BI**: For creating interactive and visually appealing dashboards.
 **Excel/CSV Data Files:** For managing and preprocessing air quality data.
